@@ -4,5 +4,5 @@
 ## JavaScript  
 Задачи решаемые на языке программирования JavaScript.  
   
-## <logos-rust /> Rust  
+## <img src="https://cdn.svgporn.com/logos/rust.svg" /> Rust  
 Задачи решаемы мной на языке программирования Rust.  
